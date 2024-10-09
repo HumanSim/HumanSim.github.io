@@ -9,7 +9,11 @@ This is an academic paper project page of the ECCV 2024 Workshop paper, "HumanSi
 
 # Citation
 ```
-
+@inproceedings{zhou2024humansim,
+  title={HumanSim: Human-Like Multi-Agent Novel Driving Simulation for Corner Case Generation},
+  author={Zhou, Lingfeng and Jiang, Mohan and Wang, Dequan},
+  booktitle={ECCV 2024 Workshop on Multimodal Perception and Comprehension of Corner Cases in Autonomous Driving}
+}
 ```
 
 # Acknowledgement
